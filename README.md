@@ -1,1 +1,1 @@
-# budget-planner
+# A budget planner app
